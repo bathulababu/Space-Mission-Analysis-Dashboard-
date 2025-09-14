@@ -1,7 +1,8 @@
 # SPACE MISSION ANALYSIS DASHBOARD 
 
 - Dataset by - Maven Analytics
-- Analyzed the data of 4000+ space missions from 1957 to 2022, and visualize the amazing history of space travel using power BI. 
+- Analyzed the data of 4000+ space missions from 1957 to 2022, and visualize the amazing history of space travel using power BI.
+- Do check out the live interactive dashboard on novyPro - https://project.novypro.com/5zxYBf
 - Here are some takeaways from the analysis - 
 1. The total number of space missions from 1957 to 2022 is 4630.
 2. 4162 missions are successful while 357 failed, The success rate for the space mission is around 90%.
